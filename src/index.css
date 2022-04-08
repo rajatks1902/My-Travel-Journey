@@ -1,0 +1,53 @@
+body{
+  margin: 0%;
+}
+.top-view{
+  background-color: #F55A5A;
+  height: 50px;
+  /* display: flex; */
+   padding: 15px 15px; 
+}
+.top-center{
+ margin-left: auto;
+ margin-right: auto;
+width: 30px;
+height: 24px;
+}
+.place{
+ padding: auto;
+ margin: 20px ;
+}
+img{
+  border-radius: 5px;
+  width: 125px;
+  height: 168px;
+  left: 40px;
+  top: 100px;
+  margin: 20px;
+}
+.visit{
+  display: flex;
+  justify-content: center;
+
+}
+.detail{
+width: 250px;
+height: 40px;
+margin-top: 5%;
+padding: auto;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15.24px;
+line-height: 120%;
+color: #2B283A;
+}
+.title{
+  font-size: 30px;
+  font-weight: 1000;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.state{
+  margin-right: 2%;
+}
